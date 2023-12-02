@@ -16,6 +16,18 @@ https://pendidikan-ti.ft.unesa.ac.id/
 Web portal berita adalah sebuah situs web yang menyajikan berbagai informasi terkini dari berbagai sumber, seperti media massa, lembaga penelitian, organisasi, atau individu. Web portal berita biasanya menampilkan berita dalam bentuk teks dengan bantuan cloud computing
 
 
+# Fungsi
+admin
+Website ini memungkinkan untuk menampung segala jenis berita
+Website ini memungkinkan pengguna mengakses berbagai informasi yang tersedia
+Website ini memungkinkan pengguna untuk mendapatkan informasi berita
+
+user
+Dapat memposting berita yang ingin di unggah
+Dapat mengunggah media berupa foto vidio dan sebagainya
+Dapat mengelola tampilan beranda ataupun isi berita
+
+
 
 
 
