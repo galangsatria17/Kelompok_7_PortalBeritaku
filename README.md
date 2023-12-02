@@ -17,12 +17,12 @@ Web portal berita adalah sebuah situs web yang menyajikan berbagai informasi ter
 
 
 # Fungsi
-admin.
+admin|
 Website ini memungkinkan untuk menampung segala jenis berita
 Website ini memungkinkan pengguna mengakses berbagai informasi yang tersedia
 Website ini memungkinkan pengguna untuk mendapatkan informasi berita
 
-user.
+user|
 Dapat memposting berita yang ingin di unggah
 Dapat mengunggah media berupa foto vidio dan sebagainya
 Dapat mengelola tampilan beranda ataupun isi berita
@@ -32,7 +32,7 @@ Dapat mengelola tampilan beranda ataupun isi berita
 link admin
 http://18.138.13.135/wp-admin
 
-user = user |
+user = user
 
 pw   = @Kf5!ylnj,y3
 
