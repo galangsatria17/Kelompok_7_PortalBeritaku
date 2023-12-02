@@ -8,7 +8,7 @@
 4. Akhdany Ichsar	 	            (21050974038)
 
 
-# link website pendidikan teknologi informasi
+# Link website pendidikan teknologi informasi
 https://pendidikan-ti.ft.unesa.ac.id/
 
 
@@ -28,6 +28,13 @@ Dapat mengunggah media berupa foto vidio dan sebagainya
 Dapat mengelola tampilan beranda ataupun isi berita
 
 
+# Link Web PortalKabar
+link admin
+http://18.138.13.135/wp-admin
 
+user = user
+pw   = @Kf5!ylnj,y3
 
-
+link user
+http://portalkabar.servehttp.com
+18.138.13.135
