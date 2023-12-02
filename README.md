@@ -33,7 +33,9 @@ link admin
 http://18.138.13.135/wp-admin
 
 user = user
+
 pw   = @Kf5!ylnj,y3
+
 
 link user
 http://portalkabar.servehttp.com
